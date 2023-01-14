@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="workflow" tests="3" time="1.394">
+  <testsuite name="createBoard" id="688291e4-fb4e-4a90-8c3c-de2cde202689" timestamp="2023-01-14T16:36:20.089Z" tests="1" failures="0" errors="0" time="0.751">
+    <testcase name="Status code is 200" time="0.751" classname="Workflow"/>
+  </testsuite>
+  <testsuite name="createList" id="ebf9ef0b-ae28-47b1-92f1-4bca2969d2a5" timestamp="2023-01-14T16:36:20.089Z" tests="1" failures="0" errors="0" time="0.259">
+    <testcase name="Status code is 200" time="0.259" classname="Workflow"/>
+  </testsuite>
+  <testsuite name="create card" id="3e2137ce-9d50-467c-b09e-a74ca137c69e" timestamp="2023-01-14T16:36:20.089Z" tests="1" failures="0" errors="0" time="0.384">
+    <testcase name="Status code is 200" time="0.384" classname="Workflow"/>
+  </testsuite>
+</testsuites>
